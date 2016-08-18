@@ -1,0 +1,64 @@
+.my-class1 {
+  border: 2px dashed rgb(153, 153, 255);
+  padding: 15px;
+  margin: 12px;
+  width: 300px;
+  float: left;
+
+  background-color: pink;
+
+}
+.my-class2 {
+  border: 2px dashed rgb(153, 153, 255);
+  padding: 15px;
+  margin: 12px;
+  width: 300px;
+  background-color: yellow;
+  float:left;
+
+}
+.my-class3 {
+  border: 2px dashed rgb(153, 153, 255);
+  padding: 15px;
+  margin: 12px;
+  width: 300px;
+  background-color: teal;
+  float: left;
+
+
+}
+
+.my-class1 img {
+  height: 250px;
+
+
+}
+
+.my-class2 img {
+  height: 250px;
+
+
+}
+
+.my-class3 img {
+  height: 250px;
+
+
+}
+
+h2 {
+  font-style: oblique;
+  text-align: center;
+}
+
+.my-class1 h2 {
+  font-family: cursive;
+}
+
+.my-class2 h2 {
+  font-family: fantasy;
+}
+
+.my-class3 h2 {
+  font-family: serif;
+}
